@@ -1,4 +1,4 @@
-intro-ling
-==========
+# Introducción a la Lingüística
 
-Asignatura genérica de "Introducción a la Lingüística" en Filología, UCM
+Materiales, apuntes, presentaciones y notas de la asignatura genérica "Introducción a la Lingüística" que imparto en Filología, UCM.
+
