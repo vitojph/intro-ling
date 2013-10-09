@@ -44,11 +44,30 @@
 5. Lingüística e interdisciplinaridad
 
 
+## Lecturas obligatorias
+
+Dos lecturas obligatorias a elegir entre:
+
+- Crystal, D. *The language revolution*. Wiley-Blackwell. 2004.
+
+- Dediu, D. Levinson, S. C. "On the antiquity of language: the reinterpretation of Neandertal linguistic capacities and its consequences". Frontiers in Psychology. 4 (397). 2013. URL: `http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=45458&articleId=46239&Version=1&ContentTypeId=21&FileName=fpsyg-04-00397.pdf`
+
+- Kennealy, Ch. *The First Word: The search for de origins of Languages*. Penguin Books. 2007. 
+
+- Pinker, S. *The Language Instinct: The New Science of Language and Mind*. Adult PBS. 1995.
+
+ROBINS, R.H. (1988). “Apéndice. Historia de la lingüística”. En F. J. Newmeyer 
+(comp.). Panorama de la lingüística moderna. Madrid: Visor, 1990.
+
+## Trabajo en grupo
+
+
+
 ## Criterios de evaluación
 
 El criterio que se sigue para la evaluación es formativo y sumativo. 
 
-La calificación final se obtendrá mediante la suma ponderada del examen (examen teórico-práctico y control de lecturas: 50% del total), de la nota obtenida en la presentación de prácticas (40%) y seminarios-conferencias (10%). 
+La calificación final se obtendrá mediante la suma ponderada del examen (examen teórico-práctico: 50% del total), de la nota obtenida en la presentación de lecturas obligatorias y prácticas (40%) y asistencia a seminarios-conferencias (10%). 
 
 **Es requisito imprescindible aprobar el examen final para superar con éxito la asignatura.**
 
