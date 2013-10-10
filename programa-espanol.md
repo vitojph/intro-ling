@@ -46,28 +46,38 @@
 
 ## Lecturas obligatorias
 
-Dos lecturas obligatorias a elegir entre:
+Dos lecturas obligatorias a elegir entre las siguientes cuatro propuestas:
 
 - Crystal, D. *The language revolution*. Wiley-Blackwell. 2004.
 
 - Dediu, D. Levinson, S. C. "On the antiquity of language: the reinterpretation of Neandertal linguistic capacities and its consequences". Frontiers in Psychology. 4 (397). 2013. URL: `http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=45458&articleId=46239&Version=1&ContentTypeId=21&FileName=fpsyg-04-00397.pdf`
 
-- Kennealy, Ch. *The First Word: The search for de origins of Languages*. Penguin Books. 2007. 
+- Kennealy, Ch. *The First Word: The search for de origins of Languages*. Penguin Books. 2007. Parte 1 "Language is not a thing", capítulos 1-4.
 
-- Pinker, S. *The Language Instinct: The New Science of Language and Mind*. Adult PBS. 1995.
+- Pinker, S. *The Language Instinct: The New Science of Language and Mind*. Adult PBS. 1995. Capítulos 3 "Mentalese", 4 "How Language Works"; y 7 "Talking Heads".
 
-ROBINS, R.H. (1988). “Apéndice. Historia de la lingüística”. En F. J. Newmeyer 
-(comp.). Panorama de la lingüística moderna. Madrid: Visor, 1990.
+Será obligatorio entregar de manera individual un resumen en forma de memoria escrita (máximo, 6 páginas) o mapa mental. Las instrucciones concretas sobre formas de trabajar y formatos de entrega se detallán en clase, y se anunciarán en el campus virtual.
+
+Fechas de entrega:
+
+- Primera lectura obligatoria: **lunes 18/11/2013** a las 0h00.
+- Segunda lectura obligatoria: **lunes 16/12/2013** a las 0h00.
+
 
 ## Trabajo en grupo
 
+Los alumnos se organizarán en equipos de 4 y deberán elegir un tema de entre los propuestos para elaborar un trabajo de investigación en grupo. Como resultado, se deberá entregar una memoria escrita común (máximo 12 páginas). 
+
+Los temas propuestos, las instrucciones concretas sobre formas de trabajar y formatos de entrega se detallán en clase, y se anunciarán en el campus virtual.
+
+- Fechas de entrega: **lunes 13/01/2014** a las 0h00.
 
 
 ## Criterios de evaluación
 
 El criterio que se sigue para la evaluación es formativo y sumativo. 
 
-La calificación final se obtendrá mediante la suma ponderada del examen (examen teórico-práctico: 50% del total), de la nota obtenida en la presentación de lecturas obligatorias y prácticas (40%) y asistencia a seminarios-conferencias (10%). 
+La calificación final se obtendrá mediante la suma ponderada del examen (examen teórico-práctico: 50% del total), de la nota obtenida en la presentación de las lecturas obligatorias, el trabajo de investigación en grupo y las prácticas, y asistencia a seminarios-conferencias, participación y aptitud en clase (10%). 
 
 **Es requisito imprescindible aprobar el examen final para superar con éxito la asignatura.**
 
