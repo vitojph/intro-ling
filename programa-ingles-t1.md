@@ -49,7 +49,7 @@ Dos lecturas obligatorias a elegir entre las siguientes cuatro propuestas:
 
 - Crystal, D. *The language revolution*. Wiley-Blackwell. 2004.
 
-- Dediu, D. Levinson, S. C. "On the antiquity of language: the reinterpretation of Neandertal linguistic capacities and its consequences". Frontiers in Psychology. 4 (397). 2013. URL: `http://www.frontiersin.org/Journal/DownloadFile.ashx?pdf=1&FileId=45458&articleId=46239&Version=1&ContentTypeId=21&FileName=fpsyg-04-00397.pdf`
+- Dediu, D. Levinson, S. C. "On the antiquity of language: the reinterpretation of Neandertal linguistic capacities and its consequences". Frontiers in Psychology. 4 (397). 2013. 
 
 - Kennealy, Ch. *The First Word: The search for de origins of Languages*. Penguin Books. 2007. Parte 1 "Language is not a thing", capítulos 1-4.
 
@@ -74,9 +74,11 @@ Los temas propuestos, las instrucciones concretas sobre formas de trabajar y for
 
 ## Criterios de evaluación
 
-El criterio que se sigue para la evaluación es formativo y sumativo. 
+El criterio que se sigue para la evaluación es formativo y sumativo. La calificación final se obtendrá mediante la suma ponderada de:
 
-La calificación final se obtendrá mediante la suma ponderada del examen (examen teórico-práctico: 50% del total), de la nota obtenida en la presentación de las lecturas obligatorias, el trabajo de investigación en grupo y las prácticas, y asistencia a seminarios-conferencias, participación y aptitud en clase (10%). 
+- el examen teórico-práctico: 50% del total.
+- la presentación de las lecturas obligatorias, el trabajo de investigación en grupo y las prácticas: 40% del total.
+- asistencia a seminarios y conferencias, participación y actitud en clase: 10%. 
 
 **Es requisito imprescindible aprobar el examen final para superar con éxito la asignatura.**
 
